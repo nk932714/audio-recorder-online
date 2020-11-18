@@ -1,2 +1,2 @@
 # audio-recorder-online
-record audios and save them or download them online.
+record audio notes with browser and save them online, can be download anytime.
